@@ -25,7 +25,6 @@ const ScriptSchema = new Schema<ScriptModel>(
             virtuals: true
         },
         toObject: {
-            virtuals: true
         },
         timestamps: true
     }
